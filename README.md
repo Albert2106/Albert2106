@@ -8,7 +8,6 @@
 
 ### 📫 Связаться со мной:  
 - [Telegram](https://t.me/albert2106)  
-- [Optimedia](https://optimedia.uz)  
 
 ### ⚙️ Стек технологий:  
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white) 
