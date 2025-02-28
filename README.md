@@ -18,5 +18,4 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Albert2106&show_icons=true&theme=radical)  
 
 ### 🔥 Контрибьюции:  
-- Всего контрибьюций: ![Total Contributions](https://github-readme-streak-stats.herokuapp.com/?user=Albert2106&theme=radical)  
-- Контрибьюции за сегодня: [GitHub Contributions](https://github.com/Albert2106)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Albert2106)](https://git.io/streak-stats)
