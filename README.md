@@ -18,4 +18,4 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Albert2106&show_icons=true&theme=radical)  
 
 ### 🔥 Контрибьюции:  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Albert2106)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Albert2106&theme=dark)](https://git.io/streak-stats)
