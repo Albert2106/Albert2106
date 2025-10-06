@@ -6,7 +6,7 @@
 - 🎮 GTA 5 | Warcraft 3 | CS 1.6   
  
 ### 📫 Связаться со мной:  
-- [LinkedIn](ссылка)  
+- [Telegram](https://t.me/albert2106)  
 - [Optimedia](https://optimedia.uz)  
 
 ### ⚙️ Стек технологий:  
